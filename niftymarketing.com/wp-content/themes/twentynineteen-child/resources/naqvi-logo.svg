@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="251" height="76" viewBox="0 0 251 76">
+  <defs>
+    <style>
+      /* svg{background:black;} */
+      .cls-1{fill: #fff;fill-rule: evenodd;}
+      .cls-1:not(#icon){animation:fadeAllIn 3s;}
+      #icon{animation:rotateIconIn 3s, fadeIconIn .5s linear;transform-origin:right;}
+      @keyframes rotateIconIn{
+        0%{transform:rotateY(90deg);fill: transparent;stroke: #fff;
+  stroke-width: 3px;}
+        100%{transform:rotateY(0deg);fill: #fff;stroke: #fff;
+  stroke-width: 0px;}
+      }
+      @keyframes fadeAllIn{
+        0%, 50%{opacity:0;}
+        100%{opacity:1;}
+      }
+      @keyframes fadeIconIn{
+        0%{opacity:0;}
+        100%{opacity:1;}
+      }
+    </style>
+  </defs>
+  <path id="icon" class="cls-1" d="M59,6S51.938-.095,39,0C21.511,0.128,0,11.688,0,38,0,68.751,26,75,26,75V37L53,75h6V6ZM52,9S22.714-1.344,10,24c-11.864,23.65,8,39,8,39V24h8L52,62V9Z"/>
+  <path id="N-naqvi" class="cls-1" d="M71,5V51h6V15l25,36h6V5h-7V39L78,5H71Z"/>
+  <path id="A-naqvi" class="cls-1" d="M111,51h7l15-36,9,25s-19-.482-19,0c-0.027,5.1,2,6,2,6h19l3,5h7L136,6s-0.836-1.1-4-1-3,1-3,1Z"/>
+  <path id="Q-naqvi" class="cls-1" d="M187,50s-2.99,2-10,2c-10.24,0-23-6.958-23-23,0-15.832,11.612-24,22-24,10.065,0,24,5.463,24,24,0,8.873-8,18-8,18l6,7-3,2h-3ZM177,11c10.024,0,16,9.145,16,18,0,7.507-6.015,16.962-15,17-9.924.042-17-5.845-17-18C161,19.01,166.307,11,177,11Z"/>
+  <path id="V-naqvi" class="cls-1" d="M197,5l18,45s0.338,1.039,4,1,3-1,3-1L240,5h-7L219,41,205,5h-8Z"/>
+  <rect id="I-naqvi" class="cls-1" x="244" y="5" width="7" height="46"/>
+  <rect id="I-injury" class="cls-1" x="71" y="60" width="3" height="15"/>
+  <path id="N-injury" class="cls-1" d="M84,60h5l3,7V60h4V75H92l-4-8v8H84V60Z"/>
+  <path id="J-injury" class="cls-1" d="M107,60h4V74l-2,2h-4V73l2-1V60Z"/>
+  <path id="U-injury" class="cls-1" d="M121,60h4V70s0.249,1,2,1c1.719,0,2-1,2-1V60h4V72s-1.481,3-6,3-6-3-6-3V60Z"/>
+  <path id="R-injury" class="cls-1" d="M142,60h8s3,0.766,3,5c0,3.636-2,4-2,4l3,6h-4l-2-5h-2v5h-4V60Zm4,3v4s2.857,0.782,3-2S146,63,146,63Z"/>
+  <path id="Y-injury" class="cls-1" d="M161,60h4l3,5,2-5h4l-5,9v6h-3V69Z"/>
+  <path id="L-law" class="cls-1" d="M196,60h4V71h5v4h-9V60Z"/>
+  <path id="A-law" class="cls-1" d="M217,60l-4,15h4l1-3h3l1,3h4l-4-15h-5Zm3,4-1,4h1V64Z"/>
+  <path id="W-law" class="cls-1" d="M233,60h4l2,8,2-8h3l2,8,1-8h4l-3,15h-4l-2-6-1,6h-4Z"/>
+</svg>

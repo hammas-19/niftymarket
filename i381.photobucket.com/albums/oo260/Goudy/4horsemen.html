@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<!-- Mirrored from i381.photobucket.com/albums/oo260/Goudy/4horsemen.gif by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 02 Aug 2021 14:40:00 GMT -->
+<head>
+	<meta charset='UTF-8'/>
+	<meta http-equiv='Cache-Control' content='no-cache, no-store, must-revalidate' />
+	<meta http-equiv='Pragma' content='no-cache' />
+	<meta http-equiv='Expires' content='0' />
+	<link rel='icon' type='image/x-icon' href='https://i381.photobucket.com/favicon.ico' />
+	<style>
+		* {
+		    margin: 0;
+		    padding: 0;
+		    box-sizing: border-box;
+		}
+
+		body {
+		    background-color: #011010;
+		}
+
+		img {
+		    max-width: 100%;
+		    max-height: 100%;
+		}
+
+		.page {
+		    display: flex;
+		    flex-wrap: wrap;
+		}
+
+		.section {
+		    justify-content: center;
+		    align-items: center;
+		}
+
+		#banner-top,
+		#banner-bottom {
+		    display: none;
+		    min-width: 728px;
+		    min-height: 90px;
+		    margin: 5px;
+		}
+
+		#left-rail,
+		#right-rail {
+		    display: none;
+		    min-width: 160px;
+		    min-height: 600px;
+		    margin: 5px;
+		}
+
+		#content {
+		    display: flex;
+		    width: 100vw;
+		    height: 100vh;
+		}
+
+		@media only screen and (min-width: 1078px) {
+
+		    #banner-top,
+		    #banner-bottom {
+		        width: calc(100vw - 160px - 160px - 30px);
+		        height: 90px;
+		    }
+
+		    #left-rail,
+		    #right-rail {
+		        width: 160px;
+		        height: calc(100vh - 10px);
+		    }
+		}
+
+		@media only screen and (min-width: 738px) and (max-width: 1078px) {
+
+		    #banner-top,
+		    #banner-bottom {
+		        width: calc(100vw - 10px);
+		        height: 90px;
+		    }
+
+		    #left-rail,
+		    #right-rail {
+		        display: none;
+		    }
+		}
+
+		@media only screen and (max-width: 737px) {
+
+		    #banner-top,
+		    #banner-bottom {
+		        width: calc(100vw - 10px);
+		        height: 50px;
+		    }
+
+		    #left-rail,
+		    #right-rail {
+		        display: none;
+		    }
+		}
+	</style>
+</head>
+<body>
+	<div class='page'>
+		<div class='section left-rail' id='left-rail'>
+			<script type='text/javascript' src='https://ads4.krushmedia.com/?c=b&amp;m=s&amp;placementId=56' async></script>
+		</div>
+		<div>
+			<div class='section banner-top' id='banner-top'>
+				<script type='text/javascript' src='https://ads4.krushmedia.com/?c=b&amp;m=s&amp;placementId=86' async></script>
+			</div>
+			<div class='section content' id='content'>
+				<img id='image'>
+			</div>
+			<div class='section banner-bottom' id='banner-bottom'>
+				<script type='text/javascript' src='https://ads4.krushmedia.com/?c=b&amp;m=s&amp;placementId=87' async></script>
+			</div>
+		</div>
+		<div class='section right-rail' id='right-rail'>
+			<script type='text/javascript' src='https://ads4.krushmedia.com/?c=b&amp;m=s&amp;placementId=61' async></script>
+		</div>
+	</div>
+	<script>
+		function getUrlParameter(param) {
+		    let query = window.location.search;
+		    let params = new URLSearchParams(query);
+		    return params.has(param) ? params.get(param) : '';
+		}
+
+		function getCookie(cname) {
+		    let name = cname + '=';
+		    let ca = document.cookie.split(';');
+		    for (let i = 0; i < ca.length; i++) {
+		        let c = ca[i];
+		        while (c.charAt(0) == ' ') {
+		            c = c.substring(1);
+		        }
+		        if (c.indexOf(name) == 0) {
+		            return c.substring(name.length, c.length);
+		        }
+		    }
+		    return '';
+		}
+
+		const loadScript = async (elementId, url) => {
+		    let script = document.createElement('script')
+		    script.type = 'text/javascript';
+		    script.src = url;
+		    document.getElementById(elementId).appendChild(script);
+		}
+
+		function loadAds() {
+		    let topBanner = document.getElementById('banner-top');
+		    let bottomBanner = document.getElementById('banner-bottom');
+		    topBanner.style.display = 'flex';
+		    bottomBanner.style.display = 'flex';
+		    document.getElementById('content').style.height = 'calc(100vh - ' + topBanner.offsetHeight + 'px - ' + bottomBanner.offsetHeight + 'px - 20px)';
+
+		    if (window.innerWidth > 1078) {
+		        let leftRail = document.getElementById('left-rail');
+		        let rightRail = document.getElementById('right-rail');
+		        leftRail.style.display = 'flex';
+		        rightRail.style.display = 'flex';
+		        document.getElementById('content').style.width = 'calc(100vw - ' + leftRail.offsetWidth + 'px - ' + rightRail.offsetWidth + 'px - 20px)';
+		    }
+
+		    // loadScript('banner-top', 'https://ads4.krushmedia.com/?c=b&m=s&placementId=86');
+		    // loadScript('banner-bottom', 'https://ads4.krushmedia.com/?c=b&m=s&placementId=87');
+		    // loadScript('left-rail', 'https://ads4.krushmedia.com/?c=b&m=s&placementId=56');
+		    // loadScript('right-rail', 'https://ads4.krushmedia.com/?c=b&m=s&placementId=61');
+		}
+
+		const init = async () => {
+		    let token = getCookie('app_auth');
+		    if (token) {
+		        const response = await fetch('https://app.photobucket.com/api/graphql', {
+		            method: 'POST',
+		            headers: {
+		                'Content-Type': 'application/json',
+		                'Authorization': 'Bearer ' + token
+		            },
+		            body: JSON.stringify({
+		                query: 'query GetProfile { getProfile { subscription { plan { title } } } }'
+		            })
+		        });
+		        try {
+		            const res = await response.json();
+		            if (res.data.getProfile.subscription.plan.title !== 'Free') {
+		                return;
+		            }
+		        } catch (e) {}
+		    }
+		    loadAds();
+		}
+
+		(function() {
+		    let path = window.location.pathname;
+		    let file = path.substr(path.lastIndexOf('https://i381.photobucket.com/') + 1);
+		    let img = 'https://hosting.photobucket.com' + path;
+
+		    document.title = 'Photobucket | ' + file;
+		    document.getElementById('image').src = img;
+
+		    init();
+		})();
+	</script>
+</body>
+
+<!-- Mirrored from i381.photobucket.com/albums/oo260/Goudy/4horsemen.gif by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 02 Aug 2021 14:40:00 GMT -->
+</html>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="722" height="405" viewBox="0 0 722 405">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {fill: white;}
+      .cls-1 {fill-rule: evenodd;}
+      #N{animation:N 1.5s linear;transform-origin:200px;}
+      #I, #I-dot{animation:I 1s linear;transform-origin:200px;}
+      #F{animation:F 1s linear;}
+      #T{animation:T 1.5s linear;transform-origin:200px;}
+      #Y{animation:Y 2s linear;transform-origin:1000px;}
+      @keyframes N{from{transform:rotateX(90deg)}}
+      @keyframes I{from{transform:rotateY(90deg)}}
+      @keyframes F{from{transform:rotateX(180deg)}}
+      @keyframes T{from{transform:rotateX(260deg)}}
+      @keyframes Y{from{transform:rotateY(90deg)}}
+    </style>
+  </defs>
+  <path id="N" class="cls-1" d="M7,294H54V201s4.281-43,46-43,46,37,46,37l1,99h48V192s-10.079-83-95-83S7,196,7,196v98Z"/>
+  <rect id="I" class="cls-2" x="218" y="110" width="48" height="184"/>
+  <path id="I-dot" class="cls-1" d="M213,70c0,13.174,11.808,29,29,29s30-11.89,30-30-17.367-29-29-29C226.355,40,213,54.432,213,70Z"/>
+  <path id="F" class="cls-1" d="M290,294h48V224h46V182H338V106s1.027-17.027,16-32,30-13,30-13V13s-35.8-3.2-66,27-28,64-28,64V294Z"/>
+  <path id="T" class="cls-1" d="M503,294s-34.54,5.46-69-29c-24.855-24.855-26-56-26-56V13h48l1,97h46v42H456v53s4.925,20.305,16,30c13.736,12.025,31,10,31,10v49Z"/>
+  <path id="Y" class="cls-1" d="M525,110h48v99s5.834,43,46,43,47-44,47-44l-1-97h49l1,195s-4.67,28.667-21,50c-17.923,23.414-54,33-54,33l-20,1V341s26.938-2.753,38-19c9.678-14.215,7-34,7-34s-15.5,12-44,12-54.3-13.3-73-32-22-52-22-52Z"/>
+</svg>

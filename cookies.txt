@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bonappetit.com	TRUE	/	FALSE	1999999999	CN_geo_country_code	PK
+www.bonappetit.com	TRUE	/	FALSE	1999999999	Samesite	None
+.bonappetit.com	TRUE	/	FALSE	1999999999	CN_xid	f369f812-583f-4360-91eb-bf87ead0cdd5
+.bonappetit.com	TRUE	/	FALSE	1999999999	CN_xid_refresh	f369f812-583f-4360-91eb-bf87ead0cdd5
+www.bonappetit.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.bonappetit.com	TRUE	/	FALSE	1999999999	xid1	1
+www.bonappetit.com	TRUE	/	FALSE	1999999999	CN_segments	co.w2131
+www.thebreman.org	TRUE	/	FALSE	1999999999	.ASPXANONYMOUS	vbG6bR0QhfMXLulrIdXTY_suNHia99unb8fUh0Q3-nsrIpOruvKMa4ESi21lfylNeWdPd8z7Nj6ODJyeHyzKJFYko79wGe4H9k1oq1n7y_msw_z70
+

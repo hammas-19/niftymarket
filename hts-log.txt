@@ -1,0 +1,426 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Aug 2021 19:09:12 at https://niftymarketing.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://niftymarketing.com/ -O1 "C:\My Web Sites\dunder2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:11:45	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://niftymarketing.com/)
+19:13:55	Warning: 	Link https://niftymarketing.com/case-study-el-dabe/ not scanned (follow robots meta tag)
+19:15:07	Warning: 	Link https://niftymarketing.com/careers/ not scanned (follow robots meta tag)
+19:18:19	Warning: 	Link https://niftymarketing.com/case-study-el-dabe/?amp not scanned (follow robots meta tag)
+19:19:14	Warning: 	Link https://niftymarketing.com/careers/?amp not scanned (follow robots meta tag)
+19:19:16	Warning: 	Moved Permanently for https://niftymarketing.com/?p=596
+19:19:16	Warning: 	File has moved from https://niftymarketing.com/?p=596 to https://niftymarketing.com/about-us/
+19:19:17	Error: 	"Method Not Allowed" (405) at link https://niftymarketing.com/xmlrpc.php (from https://niftymarketing.com/about-us/)
+19:19:52	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3349
+19:19:52	Warning: 	File has moved from https://niftymarketing.com/?p=3349 to https://niftymarketing.com/services/
+19:20:01	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3422
+19:20:01	Warning: 	File has moved from https://niftymarketing.com/?p=3422 to https://niftymarketing.com/law-firm-seo/
+19:20:12	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3497
+19:20:12	Warning: 	File has moved from https://niftymarketing.com/?p=3497 to https://niftymarketing.com/law-firm-content-marketing/
+19:20:12	Warning: 	Moved Permanently for https://niftymarketing.com/?p=6741
+19:20:12	Warning: 	File has moved from https://niftymarketing.com/?p=6741 to https://niftymarketing.com/law-firm-web-design/
+19:20:12	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4865
+19:20:12	Warning: 	File has moved from https://niftymarketing.com/?p=4865 to https://niftymarketing.com/local-seo-for-law-firms/
+19:20:12	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3499
+19:20:12	Warning: 	File has moved from https://niftymarketing.com/?p=3499 to https://niftymarketing.com/law-firm-digital-advertising/
+19:20:12	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4794
+19:20:12	Warning: 	File has moved from https://niftymarketing.com/?p=4794 to https://niftymarketing.com/law-firm-reputation-monitoring/
+19:20:12	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4990
+19:20:12	Warning: 	File has moved from https://niftymarketing.com/?p=4990 to https://niftymarketing.com/video-for-law-firms/
+19:20:15	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4816
+19:20:15	Warning: 	File has moved from https://niftymarketing.com/?p=4816 to https://niftymarketing.com/portfolio/
+19:20:15	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4835
+19:20:15	Warning: 	File has moved from https://niftymarketing.com/?p=4835 to https://niftymarketing.com/testimonials/
+19:20:15	Warning: 	Moved Permanently for https://niftymarketing.com/?p=7787
+19:20:15	Warning: 	File has moved from https://niftymarketing.com/?p=7787 to https://niftymarketing.com/naqvi-case-study/
+19:20:15	Warning: 	Moved Permanently for https://niftymarketing.com/?p=7906
+19:20:15	Warning: 	File has moved from https://niftymarketing.com/?p=7906 to https://niftymarketing.com/goldstein-case-study/
+19:20:15	Warning: 	Moved Permanently for https://niftymarketing.com/?p=7867
+19:20:15	Warning: 	File has moved from https://niftymarketing.com/?p=7867 to https://niftymarketing.com/walthew-case-study/
+19:20:15	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8638
+19:20:15	Warning: 	File has moved from https://niftymarketing.com/?p=8638 to https://niftymarketing.com/two-minute-tuesdays/
+19:20:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8125
+19:20:58	Warning: 	File has moved from https://niftymarketing.com/?p=8125 to https://niftymarketing.com/creative-marketing-ideas-for-lawyers-during-covid-19/
+19:21:27	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8217
+19:21:27	Warning: 	File has moved from https://niftymarketing.com/?p=8217 to https://niftymarketing.com/work-from-home-like-a-boss-law-firm-edition/
+19:24:36	Warning: 	Moved Permanently for https://niftymarketing.com/category/website-penalty/
+19:24:36	Warning: 	File has moved from https://niftymarketing.com/category/website-penalty/ to https://niftymarketing.com//
+19:24:36	Warning: 	Moved Permanently for https://niftymarketing.com/?p=26
+19:24:36	Warning: 	File has moved from https://niftymarketing.com/?p=26 to https://niftymarketing.com/contact/
+19:24:39	Warning: 	Moved Permanently for https://niftymarketing.com/two-minute-tuesday-videos/video-types/?amp
+19:24:39	Warning: 	File has moved from https://niftymarketing.com/two-minute-tuesday-videos/video-types/?amp to https://niftymarketing.com/two-minute-tuesday-videos/video-types/
+19:24:39	Warning: 	Moved Permanently for https://niftymarketing.com/two-minute-tuesday-videos/ad-fatigue-part-2/?amp
+19:24:39	Warning: 	File has moved from https://niftymarketing.com/two-minute-tuesday-videos/ad-fatigue-part-2/?amp to https://niftymarketing.com/two-minute-tuesday-videos/ad-fatigue-part-2/
+19:24:39	Warning: 	Moved Permanently for https://niftymarketing.com/two-minute-tuesday-videos/targeted-vs-recurring-content-part-1/?amp
+19:24:39	Warning: 	File has moved from https://niftymarketing.com/two-minute-tuesday-videos/targeted-vs-recurring-content-part-1/?amp to https://niftymarketing.com/two-minute-tuesday-videos/targeted-vs-recurring-content-part-1/
+19:24:39	Warning: 	Moved Permanently for https://niftymarketing.com/two-minute-tuesday-videos/local-service-ads-wtf/?amp
+19:24:39	Warning: 	File has moved from https://niftymarketing.com/two-minute-tuesday-videos/local-service-ads-wtf/?amp to https://niftymarketing.com/two-minute-tuesday-videos/local-service-ads-wtf/
+19:25:58	Warning: 	Moved Permanently for https://niftymarketing.com/category/website-penalty/?amp
+19:25:58	Warning: 	File has moved from https://niftymarketing.com/category/website-penalty/?amp to https://niftymarketing.com//?amp
+19:25:59	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4006
+19:25:59	Warning: 	File has moved from https://niftymarketing.com/?p=4006 to https://niftymarketing.com/about-us/mike-ramsey/
+19:26:01	Warning: 	Moved Permanently for https://niftymarketing.com/?p=5692
+19:26:01	Warning: 	File has moved from https://niftymarketing.com/?p=5692 to https://niftymarketing.com/optimal-local-landing-page-infographic/
+19:26:01	Warning: 	Moved Permanently for https://niftymarketing.com/?p=5713
+19:26:01	Warning: 	File has moved from https://niftymarketing.com/?p=5713 to https://niftymarketing.com/list-of-local-link-building-ideas/
+19:26:01	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8757
+19:26:01	Warning: 	File has moved from https://niftymarketing.com/?p=8757 to https://niftymarketing.com/two-minute-tuesday-videos/video-types/
+19:26:01	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8848
+19:26:01	Warning: 	File has moved from https://niftymarketing.com/?p=8848 to https://niftymarketing.com/two-minute-tuesday-videos/ad-fatigue-part-2/
+19:26:01	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8829
+19:26:01	Warning: 	File has moved from https://niftymarketing.com/?p=8829 to https://niftymarketing.com/two-minute-tuesday-videos/targeted-vs-recurring-content-part-1/
+19:26:01	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8645
+19:26:01	Warning: 	File has moved from https://niftymarketing.com/?p=8645 to https://niftymarketing.com/two-minute-tuesday-videos/local-service-ads-wtf/
+19:26:01	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8665
+19:26:01	Warning: 	File has moved from https://niftymarketing.com/?p=8665 to https://niftymarketing.com/two-minute-tuesdays/social-media/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8664
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/?p=8664 to https://niftymarketing.com/two-minute-tuesdays/seo/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8663
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/?p=8663 to https://niftymarketing.com/two-minute-tuesdays/paid-advertising/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8662
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/?p=8662 to https://niftymarketing.com/two-minute-tuesdays/news/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8661
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/?p=8661 to https://niftymarketing.com/two-minute-tuesdays/local-search/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8660
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/?p=8660 to https://niftymarketing.com/two-minute-tuesdays/link-building/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8659
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/?p=8659 to https://niftymarketing.com/two-minute-tuesdays/legal/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8658
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/?p=8658 to https://niftymarketing.com/two-minute-tuesdays/general-marketing/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8657
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/?p=8657 to https://niftymarketing.com/two-minute-tuesdays/content-strategy/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8656
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/?p=8656 to https://niftymarketing.com/two-minute-tuesdays/video/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8655
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/?p=8655 to https://niftymarketing.com/two-minute-tuesdays/call-tracking/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8747
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/?p=8747 to https://niftymarketing.com/two-minute-tuesdays/website-marketing/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4562
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/?p=4562 to https://niftymarketing.com/anatomy-of-an-optimized-legal-local-landing-page/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/industry-audit/
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/industry-audit/ to /score/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/law/services/local-seo-services/
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/law/services/local-seo-services/ to https://niftymarketing.com/local-seo-for-law-firms/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/law/services/seo/
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/law/services/seo/ to https://niftymarketing.com/law-firm-seo/
+19:26:02	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8095
+19:26:02	Warning: 	File has moved from https://niftymarketing.com/?p=8095 to https://niftymarketing.com/awareness-branding/
+19:29:24	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8621
+19:29:24	Warning: 	File has moved from https://niftymarketing.com/?p=8621 to https://niftymarketing.com/why-our-websites-wont-support-internet-explorer-anymore/
+19:29:26	Warning: 	Moved Permanently for https://niftymarketing.com/?p=8000
+19:29:26	Warning: 	File has moved from https://niftymarketing.com/?p=8000 to https://niftymarketing.com/local-service-ads-for-lawyers/
+19:29:26	Warning: 	Link https://niftymarketing.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+19:29:26	Warning: 	Moved Permanently for https://niftymarketing.com/?p=7343
+19:29:26	Warning: 	File has moved from https://niftymarketing.com/?p=7343 to https://niftymarketing.com/are-stars-in-google-search-results-a-thing-of-the-past-for-lawyers/
+19:29:26	Warning: 	Moved Permanently for https://niftymarketing.com/?p=5641
+19:29:26	Warning: 	File has moved from https://niftymarketing.com/?p=5641 to https://niftymarketing.com/the-marketers-guide-to-navigating-copyrights-for-image-usage/
+19:29:26	Warning: 	Moved Permanently for https://niftymarketing.com/services/local-seo-services/
+19:29:26	Warning: 	File has moved from https://niftymarketing.com/services/local-seo-services/ to https://niftymarketing.com/local-seo-for-law-firms/
+19:29:26	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4563
+19:29:26	Warning: 	File has moved from https://niftymarketing.com/?p=4563 to https://niftymarketing.com/legal-scholarship-study/
+19:29:26	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4561
+19:29:26	Warning: 	File has moved from https://niftymarketing.com/?p=4561 to https://niftymarketing.com/2-10xing-content-for-lawyers-in-the-real-world/
+19:29:26	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3970
+19:29:26	Warning: 	File has moved from https://niftymarketing.com/?p=3970 to https://niftymarketing.com/competitor-link-building-nifty-way/
+19:31:58	Warning: 	Moved Permanently for https://niftymarketing.com/sys-storage/
+19:31:58	Warning: 	File has moved from https://niftymarketing.com/sys-storage/ to https://niftymarketing.com
+19:31:58	Warning: 	Moved Permanently for https://niftymarketing.com/daves-storage/
+19:31:58	Warning: 	File has moved from https://niftymarketing.com/daves-storage/ to /
+19:31:58	Warning: 	Moved Permanently for https://niftymarketing.com/velvet-ranch/
+19:31:58	Warning: 	File has moved from https://niftymarketing.com/velvet-ranch/ to https://niftymarketing.com
+19:31:58	Warning: 	Moved Permanently for https://niftymarketing.com/gary-jones-construction/
+19:31:58	Warning: 	File has moved from https://niftymarketing.com/gary-jones-construction/ to https://niftymarketing.com
+19:33:50	Warning: 	Moved Permanently for https://niftymarketing.com/category/local-search/page/6/
+19:33:50	Warning: 	File has moved from https://niftymarketing.com/category/local-search/page/6/ to https://niftymarketing.com/services/local-seo-services/
+19:34:09	Warning: 	Moved Permanently for https://niftymarketing.com/a-new-division-for-us-meet-niftylaw/
+19:34:09	Warning: 	File has moved from https://niftymarketing.com/a-new-division-for-us-meet-niftylaw/ to https://niftymarketing.com
+19:34:09	Warning: 	Moved Permanently for https://niftymarketing.com/introducing-niftylaw/
+19:34:09	Warning: 	File has moved from https://niftymarketing.com/introducing-niftylaw/ to https://niftymarketing.com
+19:34:47	Warning: 	Moved Permanently for https://niftymarketing.com/category/seo/page/3/
+19:34:47	Warning: 	File has moved from https://niftymarketing.com/category/seo/page/3/ to https://niftymarketing.com/services/seo/
+19:38:17	Warning: 	Moved Permanently for https://niftymarketing.com/the-voice/
+19:38:17	Warning: 	File has moved from https://niftymarketing.com/the-voice/ to https://niftymarketing.com
+19:38:17	Error: 	"Not Found" (404) at link https://niftymarketing.com/industry-audit/?amp (from https://niftymarketing.com/anatomy-of-an-optimized-legal-local-landing-page/?amp)
+19:38:17	Error: 	"Not Found" (404) at link https://niftymarketing.com/law/services/local-seo-services/?amp (from https://niftymarketing.com/anatomy-of-an-optimized-legal-local-landing-page/?amp)
+19:38:17	Error: 	"Not Found" (404) at link https://niftymarketing.com/law/services/seo/?amp (from https://niftymarketing.com/anatomy-of-an-optimized-legal-local-landing-page/?amp)
+19:38:17	Error: 	"Not Found" (404) at link https://niftymarketing.com/services/local-seo-services/?amp (from https://niftymarketing.com/the-marketers-guide-to-navigating-copyrights-for-image-usage/?amp)
+19:39:59	Warning: 	Link https://niftymarketing.com/score/ not scanned (follow robots meta tag)
+19:39:59	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4560
+19:39:59	Warning: 	File has moved from https://niftymarketing.com/?p=4560 to https://niftymarketing.com/local-search-directories-for-law-firms/
+19:39:59	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4559
+19:39:59	Warning: 	File has moved from https://niftymarketing.com/?p=4559 to https://niftymarketing.com/elements-effective-law-firm-website/
+19:39:59	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4558
+19:39:59	Warning: 	File has moved from https://niftymarketing.com/?p=4558 to https://niftymarketing.com/choosing-right-color-law-firm-website-branding/
+19:39:59	Warning: 	Moved Permanently for https://niftymarketing.com/services/legal-website-design/
+19:39:59	Warning: 	File has moved from https://niftymarketing.com/services/legal-website-design/ to https://niftymarketing.com/law-firm-web-design/
+19:39:59	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4556
+19:39:59	Warning: 	File has moved from https://niftymarketing.com/?p=4556 to https://niftymarketing.com/how-people-find-lawyers-in-2015/
+19:39:59	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3668
+19:39:59	Warning: 	File has moved from https://niftymarketing.com/?p=3668 to https://niftymarketing.com/5-new-local-pack-click-through-studies/
+19:39:59	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3241
+19:39:59	Warning: 	File has moved from https://niftymarketing.com/?p=3241 to https://niftymarketing.com/local-landing-pages-really-doorway-pages/
+19:39:59	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link maclab.guhsd.net/blog/wp-content/uploads/2010/03/calvin_dots.jpg (from https://niftymarketing.com/local-landing-pages-really-doorway-pages/)
+19:40:00	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4555
+19:40:00	Warning: 	File has moved from https://niftymarketing.com/?p=4555 to https://niftymarketing.com/the-mobile-apocalypses-or-googles-mobile-friendly-update-and-your-law-firms-website/
+19:40:00	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3667
+19:40:00	Warning: 	File has moved from https://niftymarketing.com/?p=3667 to https://niftymarketing.com/local-content-scale-creativity-awesome/
+19:40:00	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3666
+19:40:00	Warning: 	File has moved from https://niftymarketing.com/?p=3666 to https://niftymarketing.com/seo-christmas/
+19:40:00	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4554
+19:40:00	Warning: 	File has moved from https://niftymarketing.com/?p=4554 to https://niftymarketing.com/using-pr-seo-to-build-your-law-firm/
+19:42:18	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3163
+19:42:18	Warning: 	File has moved from https://niftymarketing.com/?p=3163 to https://niftymarketing.com/click-study-test-new-local-stack/
+19:42:18	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3142
+19:42:18	Warning: 	File has moved from https://niftymarketing.com/?p=3142 to https://niftymarketing.com/go-stuff-yourself/
+19:42:18	Warning: 	Moved Permanently for https://niftymarketing.com/the-need-to-know-guide-to-google-my-business-for-lawyers/ and https://niftymarketing.com/my-business-insights-for-attorneys-useful-or-frivolous/
+19:42:18	Warning: 	File has moved from https://niftymarketing.com/the-need-to-know-guide-to-google-my-business-for-lawyers/ and https://niftymarketing.com/my-business-insights-for-attorneys-useful-or-frivolous/ to https://niftymarketing.com/the-need-to-know-guide-to-google-my-business-for-lawyers/%20and%20https:/niftymarketing.com/my-business-insights-for-attorneys-useful-or-frivolous/
+19:42:18	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4553
+19:42:18	Warning: 	File has moved from https://niftymarketing.com/?p=4553 to https://niftymarketing.com/one-does-not-simply/
+19:42:18	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3096
+19:42:18	Warning: 	File has moved from https://niftymarketing.com/?p=3096 to https://niftymarketing.com/nifty-halloween-photo-contest/
+19:42:18	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4552
+19:42:18	Warning: 	File has moved from https://niftymarketing.com/?p=4552 to https://niftymarketing.com/dont-get-pigeonholed-because-of-onsite-optimization/
+19:42:18	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4551
+19:42:18	Warning: 	File has moved from https://niftymarketing.com/?p=4551 to https://niftymarketing.com/the-nifty-guide-to-google-penguin-for-attorneys-and-law-firms/
+19:42:18	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3079
+19:42:18	Warning: 	File has moved from https://niftymarketing.com/?p=3079 to https://niftymarketing.com/design-seo-sux/
+19:42:18	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4550
+19:42:18	Warning: 	File has moved from https://niftymarketing.com/?p=4550 to https://niftymarketing.com/attorney-reviews-part-2-3-ways-to-make-getting-reviews-as-painless-as-possible/
+19:42:18	Warning: 	Moved Permanently for https://niftymarketing.com/services/orm-for-attorneys/
+19:42:18	Warning: 	File has moved from https://niftymarketing.com/services/orm-for-attorneys/ to https://niftymarketing.com/law/services/reputation-management/
+19:42:18	Warning: 	Moved Permanently for https://niftymarketing.com/services/local-seo-for-attorneys/
+19:42:18	Warning: 	File has moved from https://niftymarketing.com/services/local-seo-for-attorneys/ to https://niftymarketing.com/law/services/local-seo-services/
+19:42:18	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4541
+19:42:18	Warning: 	File has moved from https://niftymarketing.com/?p=4541 to https://niftymarketing.com/finding-moz-da-pa-from-a-list-of-urls/
+19:42:18	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4549
+19:42:18	Warning: 	File has moved from https://niftymarketing.com/?p=4549 to https://niftymarketing.com/how-to-basic-ppc-account-review/
+19:43:57	Warning: 	Moved Permanently for https://niftymarketing.com/?p=502
+19:43:57	Warning: 	File has moved from https://niftymarketing.com/?p=502 to https://niftymarketing.com/about-me-the-launch-of-niftymarketing-com/
+19:44:00	Warning: 	Moved Permanently for https://niftymarketing.com/?p=264
+19:44:00	Warning: 	File has moved from https://niftymarketing.com/?p=264 to https://niftymarketing.com/snake-river-towing/
+19:44:27	Warning: 	Moved Permanently for https://niftymarketing.com/?p=504
+19:44:27	Warning: 	File has moved from https://niftymarketing.com/?p=504 to https://niftymarketing.com/ifbyphone-vs-moongoose-metrics-for-google-analytics-call-tracking-part-1/
+19:44:27	Warning: 	Moved Permanently for https://niftymarketing.com/?p=503
+19:44:27	Warning: 	File has moved from https://niftymarketing.com/?p=503 to https://niftymarketing.com/free-phone-call-tracking-for-your-local-business-website/
+19:44:27	Error: 	"Not Found" (404) at link https://niftymarketing.com/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif (from https://niftymarketing.com/free-phone-call-tracking-for-your-local-business-website/)
+19:44:27	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1971
+19:44:27	Warning: 	File has moved from https://niftymarketing.com/?p=1971 to https://niftymarketing.com/why-small-businesses-hate-google-plus-local/
+19:44:27	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1718
+19:44:27	Warning: 	File has moved from https://niftymarketing.com/?p=1718 to https://niftymarketing.com/why-small-businesses-hate-yelp/
+19:44:27	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4548
+19:44:27	Warning: 	File has moved from https://niftymarketing.com/?p=4548 to https://niftymarketing.com/blogging-for-lawyers/
+19:44:27	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4544
+19:44:27	Warning: 	File has moved from https://niftymarketing.com/?p=4544 to https://niftymarketing.com/the-once-in-a-lifetime-opportunity-available-to-law-firms-right-now/
+19:44:27	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4538
+19:44:27	Warning: 	File has moved from https://niftymarketing.com/?p=4538 to https://niftymarketing.com/expand-your-content-expand-your-presence/
+19:44:27	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4530
+19:44:27	Warning: 	File has moved from https://niftymarketing.com/?p=4530 to https://niftymarketing.com/the-new-rules-of-link-building-for-lawyers/
+19:44:27	Warning: 	Moved Permanently for https://niftymarketing.com/services/penalty-recovery-for-attorneys/
+19:44:27	Warning: 	File has moved from https://niftymarketing.com/services/penalty-recovery-for-attorneys/ to https://niftymarketing.com/law/
+19:44:27	Warning: 	Moved Permanently for https://niftymarketing.com/services/legal-content-strategy/
+19:44:27	Warning: 	File has moved from https://niftymarketing.com/services/legal-content-strategy/ to https://niftymarketing.com/law/services/content-marketing/
+19:44:27	Warning: 	Moved Permanently for https://niftymarketing.com/services/legal-seo-services/
+19:44:27	Warning: 	File has moved from https://niftymarketing.com/services/legal-seo-services/ to https://niftymarketing.com/services/seo/
+19:44:27	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4528
+19:44:27	Warning: 	File has moved from https://niftymarketing.com/?p=4528 to https://niftymarketing.com/designing-the-best-law-firm-website/
+19:45:32	Warning: 	Moved Permanently for https://niftymarketing.com/?p=542
+19:45:32	Warning: 	File has moved from https://niftymarketing.com/?p=542 to https://niftymarketing.com/in-the-wild-local-search-recipe-how-to-track-local-analytics-using-wordpress/
+19:45:32	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1352
+19:45:32	Warning: 	File has moved from https://niftymarketing.com/?p=1352 to https://niftymarketing.com/follow-up-info-from-the-power-to-small-business-podcast-with-jay-ehret/
+19:45:32	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1351
+19:45:32	Warning: 	File has moved from https://niftymarketing.com/?p=1351 to https://niftymarketing.com/in-the-wild-an-extremely-nifty-guide-to-reviews-and-local-search/
+19:45:43	Warning: 	Moved Permanently for https://niftymarketing.com/?p=2991
+19:45:43	Warning: 	File has moved from https://niftymarketing.com/?p=2991 to https://niftymarketing.com/dont-get-pigeonholed-surviving-google-updates/
+19:45:43	Error: 	"Forbidden" (403) at link https://www.searchenginejournal.com/wp-content/uploads/2014/08/drop-in-traffic.jpg (from https://niftymarketing.com/dont-get-pigeonholed-surviving-google-updates/)
+19:45:43	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4547
+19:45:43	Warning: 	File has moved from https://niftymarketing.com/?p=4547 to https://niftymarketing.com/get-ahead-of-your-competitors-with-schema/
+19:45:43	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4539
+19:45:43	Warning: 	File has moved from https://niftymarketing.com/?p=4539 to https://niftymarketing.com/attorney-reviews-part-1/
+19:45:43	Warning: 	Moved Permanently for https://niftymarketing.com/services/legal-website-design/responsive-web-design/
+19:45:43	Warning: 	File has moved from https://niftymarketing.com/services/legal-website-design/responsive-web-design/ to https://niftymarketing.com/law-firm-web-design/
+19:45:48	Warning: 	Moved Permanently for https://niftymarketing.com/local-search-directories-for-attorneys/
+19:45:48	Warning: 	File has moved from https://niftymarketing.com/local-search-directories-for-attorneys/ to https://niftymarketing.com/local-search-directories-for-law-firms/
+19:48:06	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4527
+19:48:06	Warning: 	File has moved from https://niftymarketing.com/?p=4527 to https://niftymarketing.com/kicking-it-with-staupe/
+19:48:06	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4525
+19:48:06	Warning: 	File has moved from https://niftymarketing.com/?p=4525 to https://niftymarketing.com/avvo-and-niftylaw-partnership/
+19:48:06	Warning: 	Moved Permanently for https://niftymarketing.com/?p=2471
+19:48:06	Warning: 	File has moved from https://niftymarketing.com/?p=2471 to https://niftymarketing.com/pubcon-new-orleans-2013-pictures/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1349
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/?p=1349 to https://niftymarketing.com/google-adwords-promotion-through-the-local-business-center/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1346
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/?p=1346 to https://niftymarketing.com/my-thoughts-on-where-google-organic-search-results-went/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1343
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/?p=1343 to https://niftymarketing.com/adwords-and-local-search/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3665
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/?p=3665 to https://niftymarketing.com/ya-hoo-more-like-ya-boo/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/?p=506
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/?p=506 to https://niftymarketing.com/the-best-way-to-get-customer-review/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/services/seo/
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/services/seo/ to https://niftymarketing.com/law-firm-seo/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4545
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/?p=4545 to https://niftymarketing.com/psa-your-analytics-data-is-lying/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4536
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/?p=4536 to https://niftymarketing.com/my-business-insights-for-attorneys-useful-or-frivolous/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/?p=2345
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/?p=2345 to https://niftymarketing.com/25-of-google-local-top-reviewers-are-googlers/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1067
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/?p=1067 to https://niftymarketing.com/stumbleupon/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3664
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/?p=3664 to https://niftymarketing.com/how-to-claim-your-facebook-places-page/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/?p=2760
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/?p=2760 to https://niftymarketing.com/outreach-editors-5-ways-to-make-editors-thankful/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/?p=325
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/?p=325 to https://niftymarketing.com/an-extremely-good-google-map-spammer/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/?p=941
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/?p=941 to https://niftymarketing.com/me-vs-matt-cutts-a-visual-ly-infographic/
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/?p=855
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/?p=855 to https://niftymarketing.com/the-medi-center/
+19:48:13	Error: 	"Not Found" (404) at link https://niftymarketing.com/services/legal-website-design/?amp (from https://niftymarketing.com/choosing-right-color-law-firm-website-branding/?amp)
+19:48:13	Warning: 	Moved Permanently for https://niftymarketing.com/the-need-to-know-guide-to-google-my-business-for-lawyers/ and https://niftymarketing.com/my-business-insights-for-attorneys-useful-or-frivolous/?amp
+19:48:13	Warning: 	File has moved from https://niftymarketing.com/the-need-to-know-guide-to-google-my-business-for-lawyers/ and https://niftymarketing.com/my-business-insights-for-attorneys-useful-or-frivolous/?amp to https://niftymarketing.com/the-need-to-know-guide-to-google-my-business-for-lawyers/%20and%20https:/niftymarketing.com/my-business-insights-for-attorneys-useful-or-frivolous/?amp
+19:48:13	Error: 	"Not Found" (404) at link https://niftymarketing.com/contact-us?amp (from https://niftymarketing.com/the-nifty-guide-to-google-penguin-for-attorneys-and-law-firms/?amp)
+19:48:13	Error: 	"Not Found" (404) at link https://niftymarketing.com/services/orm-for-attorneys/?amp (from https://niftymarketing.com/attorney-reviews-part-2-3-ways-to-make-getting-reviews-as-painless-as-possible/?amp)
+19:48:13	Error: 	"Not Found" (404) at link https://niftymarketing.com/services/local-seo-for-attorneys/?amp (from https://niftymarketing.com/attorney-reviews-part-2-3-ways-to-make-getting-reviews-as-painless-as-possible/?amp)
+19:48:15	Warning: 	Moved Permanently for https://niftymarketing.com/?p=500
+19:48:15	Warning: 	File has moved from https://niftymarketing.com/?p=500 to https://niftymarketing.com/sys-storage/
+19:48:15	Warning: 	Moved Permanently for https://niftymarketing.com/?p=499
+19:48:15	Warning: 	File has moved from https://niftymarketing.com/?p=499 to https://niftymarketing.com/daves-storage/
+19:48:15	Warning: 	Moved Permanently for https://niftymarketing.com/?p=498
+19:48:15	Warning: 	File has moved from https://niftymarketing.com/?p=498 to https://niftymarketing.com/velvet-ranch/
+19:48:15	Warning: 	Moved Permanently for https://niftymarketing.com/?p=497
+19:48:15	Warning: 	File has moved from https://niftymarketing.com/?p=497 to https://niftymarketing.com/gary-jones-construction/
+19:48:25	Error: 	"Not Found" (404) at link https://niftymarketing.com/services/penalty-recovery-for-attorneys/?amp (from https://niftymarketing.com/the-new-rules-of-link-building-for-lawyers/?amp)
+19:48:25	Error: 	"Not Found" (404) at link https://niftymarketing.com/services/legal-content-strategy/?amp (from https://niftymarketing.com/the-new-rules-of-link-building-for-lawyers/?amp)
+19:48:25	Error: 	"Not Found" (404) at link https://niftymarketing.com/services/legal-seo-services/?amp (from https://niftymarketing.com/the-new-rules-of-link-building-for-lawyers/?amp)
+19:48:27	Error: 	"Not Found" (404) at link https://niftymarketing.com/services/legal-website-design/responsive-web-design/?amp (from https://niftymarketing.com/attorney-reviews-part-1/?amp)
+19:48:57	Warning: 	Moved Permanently for https://niftymarketing.com/?p=2648
+19:48:57	Warning: 	File has moved from https://niftymarketing.com/?p=2648 to https://niftymarketing.com/a-new-division-for-us-meet-niftylaw/
+19:48:57	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4557
+19:48:57	Warning: 	File has moved from https://niftymarketing.com/?p=4557 to https://niftymarketing.com/introducing-niftylaw/
+19:48:57	Error: 	"Not Found" (404) at link https://niftymarketing.com/contact-us/?amp (from https://niftymarketing.com/introducing-niftylaw/?amp)
+19:48:58	Error: 	"Not Found" (404) at link https://niftymarketing.com/local-internet-marketing?amp (from https://niftymarketing.com/adwords-and-local-search/?amp)
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=851
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/?p=851 to https://niftymarketing.com/the-voice/
+19:48:58	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link maclab.guhsd.net/blog/wp-content/uploads/2010/03/calvin_dots.jpg (from https://niftymarketing.com/local-landing-pages-really-doorway-pages/)
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4546
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/?p=4546 to https://niftymarketing.com/the-google-zoo/
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4543
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/?p=4543 to https://niftymarketing.com/3-easy-ways-to-self-diagnose-a-google-website-penalty/
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4542
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/?p=4542 to https://niftymarketing.com/delinkuents/
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4540
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/?p=4540 to https://niftymarketing.com/7-misconceptions-attorneys-have-when-it-comes-to-seo/
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/law/services/reputation-management/
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/law/services/reputation-management/ to https://niftymarketing.com/law-firm-reputation-monitoring/
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4537
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/?p=4537 to https://niftymarketing.com/nifty-study-takeaways-part-1-citations/
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4535
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/?p=4535 to https://niftymarketing.com/the-need-to-know-guide-to-google-my-business-for-lawyers/
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4534
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/?p=4534 to https://niftymarketing.com/is-your-law-websites-contact-form-and-disclaimer-correct/
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4532
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/?p=4532 to https://niftymarketing.com/link-building-the-what-the-how-the-why/
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4531
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/?p=4531 to https://niftymarketing.com/lawyernomics-2014-lions-and-tigers-and-lawyers-oh-my/
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1347
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/?p=1347 to https://niftymarketing.com/secret-local-search-ranking-facts-for-free/
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1345
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/?p=1345 to https://niftymarketing.com/reviews-and-lucky-7-local-listings/
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1344
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/?p=1344 to https://niftymarketing.com/lucky-7s-local-ads-and-lucrative-support/
+19:48:58	Warning: 	Moved Permanently for https://niftymarketing.com/?p=505
+19:48:58	Warning: 	File has moved from https://niftymarketing.com/?p=505 to https://niftymarketing.com/local-business-listings-webinar-report/
+19:49:46	Warning: 	Moved Permanently for https://niftymarketing.com/?p=549
+19:49:46	Warning: 	File has moved from https://niftymarketing.com/?p=549 to https://niftymarketing.com/local-search-talk-series-part-3-matt-mcgee-interview/
+19:49:46	Warning: 	Moved Permanently for https://niftymarketing.com/?p=525
+19:49:46	Warning: 	File has moved from https://niftymarketing.com/?p=525 to https://niftymarketing.com/hiding-your-business-address-is-a-guaranteed-way-to-drop-down-the-rankings/
+19:49:46	Warning: 	Moved Permanently for https://niftymarketing.com/?p=518
+19:49:46	Warning: 	File has moved from https://niftymarketing.com/?p=518 to https://niftymarketing.com/local-search-talk-series-part-2-dev-basu-interview/
+19:49:46	Warning: 	Moved Permanently for https://niftymarketing.com/?p=509
+19:49:46	Warning: 	File has moved from https://niftymarketing.com/?p=509 to https://niftymarketing.com/local-search-talk-series-part-1-miriam-ellis-interview/
+19:49:46	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1350
+19:49:46	Warning: 	File has moved from https://niftymarketing.com/?p=1350 to https://niftymarketing.com/my-experience-at-getlisted-org-university-spokane/
+19:49:46	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1348
+19:49:46	Warning: 	File has moved from https://niftymarketing.com/?p=1348 to https://niftymarketing.com/small-business-blogs-that-actually-work/
+19:49:46	Warning: 	Moved Permanently for https://niftymarketing.com/law/
+19:49:46	Warning: 	File has moved from https://niftymarketing.com/law/ to https://niftymarketing.com
+19:49:46	Warning: 	Moved Permanently for https://niftymarketing.com/law/services/content-marketing/
+19:49:46	Warning: 	File has moved from https://niftymarketing.com/law/services/content-marketing/ to https://niftymarketing.com/law-firm-content-marketing/
+19:49:46	Warning: 	Moved Permanently for https://niftymarketing.com/?p=2080
+19:49:46	Warning: 	File has moved from https://niftymarketing.com/?p=2080 to https://niftymarketing.com/hungry-for-quality/
+19:49:46	Error: 	"Not Found" (404) at link https://www.bonappetit.com/images/dishes/dish/2008/11/tbg_raw_turkey_614.jpg (from https://niftymarketing.com/hungry-for-quality/)
+19:49:46	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://food.thefuntimesguide.com/images/blogs/turkey-brine-by-scottfeldstein.jpg (from https://niftymarketing.com/hungry-for-quality/)
+19:49:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://niftymarketing.com/wp-content/uploads/2012/11/nifty_thanksgiving.jpg (from https://niftymarketing.com/hungry-for-quality/)
+19:49:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://niftymarketing.com/11-content-lessons-i-learned-from-the-princess-bride/feed/ (from https://niftymarketing.com/11-content-lessons-i-learned-from-the-princess-bride/)
+19:49:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://niftymarketing.com/wp-json/wp/v2/posts/1993 (from https://niftymarketing.com/11-content-lessons-i-learned-from-the-princess-bride/)
+19:49:46	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1993
+19:49:46	Warning: 	File has moved from https://niftymarketing.com/?p=1993 to https://niftymarketing.com/11-content-lessons-i-learned-from-the-princess-bride/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1604
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=1604 to https://niftymarketing.com/your-unique-selling-proposition/
+19:49:47	Error: 	"Not Found" (404) at link www.thebreman.org/exhibitions/online/1000kids/PersecutedJews.jpg (from https://niftymarketing.com/your-unique-selling-proposition/)
+19:49:47	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link www.quill-pen.info/wp-content/uploads/2012/03/lhertzel_1303424945_quill-pen.jpg (from https://niftymarketing.com/your-unique-selling-proposition/)
+19:49:47	Warning: 	Retry after error -4 (Connect Error) at link www.psychotactics.com/blog/wp-content/uploads/2008/07/i11.jpg (from https://niftymarketing.com/your-unique-selling-proposition/)
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4526
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=4526 to https://niftymarketing.com/lawyers-guide-to-getting-reviews-online/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4529
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=4529 to https://niftymarketing.com/check-out-our-interview-on-lxbn/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=4524
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=4524 to https://niftymarketing.com/local-directory-strategy-for-lawyers/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=2578
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=2578 to https://niftymarketing.com/10-random-peoples-reactions-to-google-local-carousel/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1674
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=1674 to https://niftymarketing.com/the-nifty-local-search-website-grader-infographic/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1308
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=1308 to https://niftymarketing.com/the-future-seen-through-google-glasses-2/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1298
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=1298 to https://niftymarketing.com/smx-west-presentation-about-onsite-seo-an-interview/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1248
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=1248 to https://niftymarketing.com/star-wars-and-seo/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1107
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=1107 to https://niftymarketing.com/5-reasons-to-microsite-for-orm/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=1043
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=1043 to https://niftymarketing.com/responsive-what-does-it-mean-for-the-seo/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=997
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=997 to https://niftymarketing.com/local-seos-to-follow-on-google-plus/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=932
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=932 to https://niftymarketing.com/smxadvanced/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=882
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=882 to https://niftymarketing.com/what-to-expect-from-getlisted-university-spokanes-site-clinic/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=877
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=877 to https://niftymarketing.com/my-top-2010-local-search-articles-based-on-retweets/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=840
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=840 to https://niftymarketing.com/a-newbies-first-time-at-pubcon/
+19:49:47	Warning: 	Moved Permanently for https://niftymarketing.com/?p=579
+19:49:47	Warning: 	File has moved from https://niftymarketing.com/?p=579 to https://niftymarketing.com/nifty-marketing-gets-a-new-business-card/
+19:50:33	Warning: 	Moved Permanently for https://niftymarketing.com/?p=2506
+19:50:33	Warning: 	File has moved from https://niftymarketing.com/?p=2506 to https://niftymarketing.com/local-search-directories-for-attorneys/
+19:50:33	Error: 	"Not Found" (404) at link https://niftymarketing.com/services/google-places-optimization-and-marketing?amp (from https://niftymarketing.com/the-future-seen-through-google-glasses-2/?amp)
+19:50:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link maclab.guhsd.net/blog/wp-content/uploads/2010/03/calvin_dots.jpg (from https://niftymarketing.com/local-landing-pages-really-doorway-pages/)
+19:50:33	Warning: 	Moved Permanently for https://niftymarketing.com/?p=603
+19:50:33	Warning: 	File has moved from https://niftymarketing.com/?p=603 to https://niftymarketing.com/local-search-talk-series-part-8-david-mihm-interview/
+19:50:34	Warning: 	Moved Permanently for https://niftymarketing.com/?p=3663
+19:50:34	Warning: 	File has moved from https://niftymarketing.com/?p=3663 to https://niftymarketing.com/local-search-talk-series-part-7-earlpearl-interview/
+19:50:34	Warning: 	Moved Permanently for https://niftymarketing.com/?p=590
+19:50:34	Warning: 	File has moved from https://niftymarketing.com/?p=590 to https://niftymarketing.com/local-search-talk-series-part-6-mary-bowling-interview/
+19:50:34	Warning: 	Moved Permanently for https://niftymarketing.com/?p=582
+19:50:34	Warning: 	File has moved from https://niftymarketing.com/?p=582 to https://niftymarketing.com/local-search-talk-series-part-5-ed-reese-interview/
+19:50:34	Warning: 	Moved Permanently for https://niftymarketing.com/?p=566
+19:50:34	Warning: 	File has moved from https://niftymarketing.com/?p=566 to https://niftymarketing.com/local-search-talk-series-part-4-chris-silver-smith-interview/
+19:50:34	Warning: 	Moved Permanently for https://niftymarketing.com/?p=558
+19:50:34	Warning: 	File has moved from https://niftymarketing.com/?p=558 to https://niftymarketing.com/google-local-business-ads-displaying-everywhere/
+19:50:34	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://food.thefuntimesguide.com/images/blogs/turkey-brine-by-scottfeldstein.jpg (from https://niftymarketing.com/hungry-for-quality/)
+19:50:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://niftymarketing.com/wp-content/uploads/2012/11/nifty_thanksgiving.jpg (from https://niftymarketing.com/hungry-for-quality/)
+19:50:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://niftymarketing.com/11-content-lessons-i-learned-from-the-princess-bride/feed/ (from https://niftymarketing.com/11-content-lessons-i-learned-from-the-princess-bride/)
+19:50:34	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.quill-pen.info/wp-content/uploads/2012/03/lhertzel_1303424945_quill-pen.jpg (from https://niftymarketing.com/your-unique-selling-proposition/)
+19:50:34	Warning: 	Retry after error -4 (Connect Error) at link www.psychotactics.com/blog/wp-content/uploads/2008/07/i11.jpg (from https://niftymarketing.com/your-unique-selling-proposition/)
+19:50:34	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://food.thefuntimesguide.com/images/blogs/turkey-brine-by-scottfeldstein.jpg (from https://niftymarketing.com/hungry-for-quality/)
+19:50:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://niftymarketing.com/wp-content/uploads/2012/11/nifty_thanksgiving.jpg (from https://niftymarketing.com/hungry-for-quality/)
+19:50:38	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.quill-pen.info/wp-content/uploads/2012/03/lhertzel_1303424945_quill-pen.jpg (from https://niftymarketing.com/your-unique-selling-proposition/)
+19:50:55	Error: 	"Connect Error" (-4) after 2 retries at link www.psychotactics.com/blog/wp-content/uploads/2008/07/i11.jpg (from https://niftymarketing.com/your-unique-selling-proposition/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 41 minutes 43 seconds : 1886 links scanned, 1661 files written (160087005 bytes overall) [132135319 bytes received at 52790 bytes/sec], 41282739 bytes transferred using HTTP compression in 1010 files, ratio 24%, 14.5 requests per connection
+(26 errors, 389 warnings, 0 messages)
